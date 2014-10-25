@@ -1,0 +1,9 @@
+logs
+project/project
+project/target
+lib_managed
+target
+tmp
+.history
+dist
+/bin
